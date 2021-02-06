@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/masoudjafari78/sop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/masoudjafari78/sop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# SOP
+اینجانب مسعود جعفری دانشجو رشته کامپیوتر دانشگاه پیام نور تهران 
+در دوران راهنمایی به درس ریاضی و تحصیل در رشته ریاضی علاقه مند شده ام 
+در دوران دبیرستان به تحصیل در رشته ریاضی پرداخته و در فصل تابستان مشغول به کار در دفتر فروش نرم افزار و سخت افزار پاسارگاد شده ام 
+ضمن کار به رشته کامپیوتر و علی الخصوص به کار در زمینه دیتابیس علاقه مند شده ام 
+در سال اخر دبیرستان با توجه به تلاش های زیاد و یک سال ماندن در پشت کنکور جهت قبولی در دانشگاه های دولتی تهران  موفق نبوده ام
+در نتیجه در دانشگاه پیام نور تهران مشغول به تحصیل و همزمان شروع به گذراندن دوره در زمینه پایگاه داده رابطه ای در مدرسه اوراکل شده ام 
+در حال حاضر مشعول به کار در بخش پشتیبانی نرم افزار شرکت مهندسی شبکه گستران آریا سامانه هستم 
+و در آینده ای نه چندان دور تصمیم به یادگیری و ادامه دوره ها در مدرسه اوراکل و کار تحت عنوان مدیریت پایگاه داده های رابطه ای را دارم 
